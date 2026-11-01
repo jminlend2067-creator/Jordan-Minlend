@@ -2,8 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [https://github.com/jminlend2067-creator/Sentinel-SOC-Home-LAB](JordanMinlend)
-  - [Microsoft365](JordanMinlend)
+Microsoft Sentinel SOC Home Lab  -(JordanMinlend)
 
 
 <h2>📺 Certifications</h2>

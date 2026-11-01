@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory-User and Group management](JordanMinlend)
+  - [Sentinel-SOC-Home-LAB ](JordanMinlend)
   - [Microsoft365](JordanMinlend)
 
 

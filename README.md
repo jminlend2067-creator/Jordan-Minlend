@@ -1,8 +1,8 @@
 <h1>Hi, I'm Jordan! </h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2> ## 👨‍💻 Cybersecurity Projects
 
-Microsoft Sentinel SOC Home Lab  -(JordanMinlend)
+- [Microsoft Sentinel SOC Home Lab](https://github.com/jminlend2067-creator/Sentinel-SOC-Home-LAB)
 
 
 <h2>📺 Certifications</h2>
